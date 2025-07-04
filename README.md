@@ -1,4 +1,8 @@
-## Hi there 👋
+# School See LLP
+#### We provide cross-platform apps that offer smart tools to simplify traditional school management workflows, including fees, digital classes, assessments, attendance tracking, notifications, reports, communication, and more.
+
+
+Visit our website: [https://www.schoolsee.in/](https://www.schoolsee.in/)
 
 <!--
 **SchoolSee/SchoolSee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
